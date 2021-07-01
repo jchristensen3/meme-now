@@ -42,7 +42,7 @@ const deleteProfile = (req, res) => {
         }
         
     })
-    .then(deleteProfile => {
+    .then(deletedProfile => {
         console.log("Profile Deleted")
         res.status(constants.SUCCESS).send('success')
     })
