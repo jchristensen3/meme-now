@@ -22,7 +22,7 @@ module.exports = {
       },
       img: {
         type: Sequelize.STRING,
-        defaultValue: 'https://theawesomer.com/photos/2010/06/060410_Facebook_profile_pic_6.jpg'
+        defaultValue: 'https://theawesomer.com/photos/2010/06/060410_Facebook_profile_pic_6.jpg',
       },
       createdAt: {
         allowNull: false,

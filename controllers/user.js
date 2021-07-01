@@ -1,4 +1,4 @@
-const User = require('../user.js').User;
+const User = require('../models').User;
 const constants = require('../constants');
 
 const getProfile = (req, res) => {
