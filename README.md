@@ -18,9 +18,9 @@ Do you love MEMEs? or maybe you prefer Gifs? Well you are in luck. You can creat
    
    
 ## Getting Started:
+![WireFrame Project 4](https://user-images.githubusercontent.com/62125512/125859923-b4710820-d5cd-4303-a703-98fe98ded83d.png)
+![ERD Project4](https://user-images.githubusercontent.com/62125512/125859894-bd79905b-350e-44bd-a226-06c8feccf4e2.png)
 
-<img src="file:///C:/Users/IITH030/Desktop/Project%203/ERD%20Project4.png width="400">
-<img src="file:///C:/Users/IITH030/Desktop/Project%203/WireFrame%20Project%204.png width="400">
 
 
 **_To begin:_**: 
